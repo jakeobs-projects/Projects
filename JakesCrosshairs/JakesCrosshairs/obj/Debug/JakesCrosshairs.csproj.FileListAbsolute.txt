@@ -1,0 +1,11 @@
+D:\c#\JakesCrosshairs\JakesCrosshairs\bin\Debug\JakesCrosshairs.exe.config
+D:\c#\JakesCrosshairs\JakesCrosshairs\bin\Debug\JakesCrosshairs.exe
+D:\c#\JakesCrosshairs\JakesCrosshairs\bin\Debug\JakesCrosshairs.pdb
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.csprojAssemblyReference.cache
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.Crosshair.resources
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.Form1.resources
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.Properties.Resources.resources
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.csproj.GenerateResource.cache
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.csproj.CoreCompileInputs.cache
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.exe
+D:\c#\JakesCrosshairs\JakesCrosshairs\obj\Debug\JakesCrosshairs.pdb
