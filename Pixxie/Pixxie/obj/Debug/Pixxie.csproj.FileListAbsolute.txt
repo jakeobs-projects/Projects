@@ -1,0 +1,10 @@
+D:\c#\Pixxie\Pixxie\bin\Debug\Pixxie.exe.config
+D:\c#\Pixxie\Pixxie\bin\Debug\Pixxie.exe
+D:\c#\Pixxie\Pixxie\bin\Debug\Pixxie.pdb
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.csprojAssemblyReference.cache
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.Form1.resources
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.Properties.Resources.resources
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.csproj.GenerateResource.cache
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.csproj.CoreCompileInputs.cache
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.exe
+D:\c#\Pixxie\Pixxie\obj\Debug\Pixxie.pdb
