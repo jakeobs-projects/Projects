@@ -1,0 +1,20 @@
+D:\c#\JakesCryptography\bin\Debug\JakesCryptography.exe.config
+D:\c#\JakesCryptography\bin\Debug\JakesCryptography.exe
+D:\c#\JakesCryptography\bin\Debug\JakesCryptography.pdb
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.csprojAssemblyReference.cache
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.Form1.resources
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.Properties.Resources.resources
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.csproj.GenerateResource.cache
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.csproj.CoreCompileInputs.cache
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.exe
+D:\c#\JakesCryptography\obj\Debug\JakesCryptography.pdb
+D:\Main_File\C# Portfolio\JakesCryptography\bin\Debug\JakesCryptography.exe.config
+D:\Main_File\C# Portfolio\JakesCryptography\bin\Debug\JakesCryptography.exe
+D:\Main_File\C# Portfolio\JakesCryptography\bin\Debug\JakesCryptography.pdb
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.csprojAssemblyReference.cache
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.Form1.resources
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.Properties.Resources.resources
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.csproj.GenerateResource.cache
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.csproj.CoreCompileInputs.cache
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.exe
+D:\Main_File\C# Portfolio\JakesCryptography\obj\Debug\JakesCryptography.pdb
