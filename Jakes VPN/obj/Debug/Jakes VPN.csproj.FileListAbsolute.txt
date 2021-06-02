@@ -1,0 +1,20 @@
+D:\c#\Jakes VPN\bin\Debug\Jakes VPN.exe.config
+D:\c#\Jakes VPN\bin\Debug\Jakes VPN.exe
+D:\c#\Jakes VPN\bin\Debug\Jakes VPN.pdb
+D:\c#\Jakes VPN\obj\Debug\Jakes VPN.csprojAssemblyReference.cache
+D:\c#\Jakes VPN\obj\Debug\Jakes_VPN.Form1.resources
+D:\c#\Jakes VPN\obj\Debug\Jakes_VPN.Properties.Resources.resources
+D:\c#\Jakes VPN\obj\Debug\Jakes VPN.csproj.GenerateResource.cache
+D:\c#\Jakes VPN\obj\Debug\Jakes VPN.csproj.CoreCompileInputs.cache
+D:\c#\Jakes VPN\obj\Debug\Jakes VPN.exe
+D:\c#\Jakes VPN\obj\Debug\Jakes VPN.pdb
+D:\Main_File\C# Portfolio\Jakes VPN\bin\Debug\Jakes VPN.exe.config
+D:\Main_File\C# Portfolio\Jakes VPN\bin\Debug\Jakes VPN.exe
+D:\Main_File\C# Portfolio\Jakes VPN\bin\Debug\Jakes VPN.pdb
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes VPN.csprojAssemblyReference.cache
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes_VPN.Form1.resources
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes_VPN.Properties.Resources.resources
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes VPN.csproj.GenerateResource.cache
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes VPN.csproj.CoreCompileInputs.cache
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes VPN.exe
+D:\Main_File\C# Portfolio\Jakes VPN\obj\Debug\Jakes VPN.pdb
