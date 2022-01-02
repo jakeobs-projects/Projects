@@ -1,0 +1,10 @@
+D:\c#\rngtest\rngtest\bin\Debug\rngtest.exe.config
+D:\c#\rngtest\rngtest\bin\Debug\rngtest.exe
+D:\c#\rngtest\rngtest\bin\Debug\rngtest.pdb
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.csprojAssemblyReference.cache
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.Form1.resources
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.Properties.Resources.resources
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.csproj.GenerateResource.cache
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.csproj.CoreCompileInputs.cache
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.exe
+D:\c#\rngtest\rngtest\obj\Debug\rngtest.pdb
