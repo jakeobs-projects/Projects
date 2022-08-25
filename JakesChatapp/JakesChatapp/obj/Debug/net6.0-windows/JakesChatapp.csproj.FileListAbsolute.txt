@@ -1,0 +1,17 @@
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\bin\Debug\net6.0-windows\JakesChatapp.exe
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\bin\Debug\net6.0-windows\JakesChatapp.deps.json
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\bin\Debug\net6.0-windows\JakesChatapp.runtimeconfig.json
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\bin\Debug\net6.0-windows\JakesChatapp.dll
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\bin\Debug\net6.0-windows\JakesChatapp.pdb
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.csproj.AssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.csproj.GenerateResource.cache
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.AssemblyInfo.cs
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.dll
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\refint\JakesChatapp.dll
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.pdb
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\JakesChatapp.genruntimeconfig.cache
+C:\Users\Jake\Documents\Visual Studio 2022\Projects\JakesChatapp\JakesChatapp\obj\Debug\net6.0-windows\ref\JakesChatapp.dll
